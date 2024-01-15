@@ -1,1 +1,1 @@
-# odin-recipes
+In this project i have created a receipe page using only HTML. At the end of this project i will get a better a idea about HTML.
